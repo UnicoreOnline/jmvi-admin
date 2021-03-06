@@ -1,0 +1,8 @@
+# ignore upload picture folder
+upload_pic
+
+# ignore images folder
+images
+
+# ignore well-known folder
+.well-known

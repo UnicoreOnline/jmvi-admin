@@ -1,0 +1,1 @@
+{"api_key":"450908816KGdcae2aYMK","login_hash":"WzElPSe60sk1uwnSZnbydjDx2F4wMmNlNjBmY2Rh","user_id":"153","property_id":"186"}
